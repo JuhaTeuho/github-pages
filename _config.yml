@@ -14,6 +14,10 @@ defaults:
          layout: default_fi
          lang: fi
          base-url: "/fi/"
+         
+plugins:
+  - jekyll-multiple-languages-plugin
+
 # languages
 # default langage : "fi" 
 languages: ["fi","en"]
